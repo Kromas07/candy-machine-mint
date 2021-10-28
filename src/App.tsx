@@ -1,4 +1,5 @@
 import "./App.css";
+import "./bootstrap.css";
 import { useMemo } from "react";
 
 import Home from "./Home";
